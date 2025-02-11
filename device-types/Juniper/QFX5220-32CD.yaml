@@ -8,7 +8,7 @@ weight: 24.5
 weight_unit: lb
 airflow: front-to-rear
 is_full_depth: true
-comments: '[Juniper QFX5220 Data Sheet](https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/qfx5220-switch-datasheet.pdf)\n[Hardware
+comments: '[Juniper QFX5220 Data Sheet](https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/qfx5220-switch-datasheet.pdf)<br>[Hardware
   Guide](https://www.juniper.net/documentation/us/en/hardware/qfx5220/index.html)'
 console-ports:
   - name: Console
